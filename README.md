@@ -64,7 +64,7 @@ SQL Server
 SQLClient package
 
 #### Bonus
-In the bonus folder you can find a Windows Form Application project,
+In the bonus folder you can find a Windows Form Application project, update the connection string in Form1> Form1_Load to point to your database
 After runing Bonus.sln file, a form will be displayed showing the number of patients who were active each day in the last month - displayed as a graph, and how many members of the coffers are not vaccinated at all.
 
 #### Note:
@@ -81,6 +81,7 @@ To use the application, follow these steps:
 
 Open the application in Visual Studio.
 Build and run the project.
+Maximize the window.
 
 Click the Show Members button see the members list.
 
