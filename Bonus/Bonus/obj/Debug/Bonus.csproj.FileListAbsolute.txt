@@ -1,0 +1,11 @@
+C:\Users\shira\OneDrive\Desktop\hadasimTest\Bonus\Bonus\bin\Debug\Bonus.exe.config
+C:\Users\shira\OneDrive\Desktop\hadasimTest\Bonus\Bonus\bin\Debug\Bonus.exe
+C:\Users\shira\OneDrive\Desktop\hadasimTest\Bonus\Bonus\bin\Debug\Bonus.pdb
+C:\Users\shira\OneDrive\Desktop\hadasimTest\Bonus\Bonus\obj\Debug\Bonus.csproj.AssemblyReference.cache
+C:\Users\shira\OneDrive\Desktop\hadasimTest\Bonus\Bonus\obj\Debug\Bonus.csproj.SuggestedBindingRedirects.cache
+C:\Users\shira\OneDrive\Desktop\hadasimTest\Bonus\Bonus\obj\Debug\Bonus.Form1.resources
+C:\Users\shira\OneDrive\Desktop\hadasimTest\Bonus\Bonus\obj\Debug\Bonus.Properties.Resources.resources
+C:\Users\shira\OneDrive\Desktop\hadasimTest\Bonus\Bonus\obj\Debug\Bonus.csproj.GenerateResource.cache
+C:\Users\shira\OneDrive\Desktop\hadasimTest\Bonus\Bonus\obj\Debug\Bonus.csproj.CoreCompileInputs.cache
+C:\Users\shira\OneDrive\Desktop\hadasimTest\Bonus\Bonus\obj\Debug\Bonus.exe
+C:\Users\shira\OneDrive\Desktop\hadasimTest\Bonus\Bonus\obj\Debug\Bonus.pdb

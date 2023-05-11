@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eed503a6-7529-48f2-a024-0607cd16c3f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/.vs/ClientSide/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/.vs/ClientSide/FileContentIndex/b71d0b3b-18fe-4efc-b1d8-a5184ddded35.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/.vs/ClientSide/FileContentIndex/c7b020c4-1c03-4b7c-b3dc-b4f0ef214922.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/.vs/ClientSide/FileContentIndex/eb9d0482-b866-4f8b-a873-dfe49c095b7e.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/.vs/ClientSide/FileContentIndex/f282470c-00c6-4189-893c-e5d316198635.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/.vs/ClientSide/FileContentIndex/read.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/.vs/ClientSide/v17/.futdcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/.vs/ClientSide/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/.vs/ProjectEvaluation/clientside.metadata.v6.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/.vs/ProjectEvaluation/clientside.projects.v6.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/ClientSide.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/ClientSide.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/Models/Member.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/Models/Vaccine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/Window1.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/Window1.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/bin/Debug/net6.0-windows/ClientSide.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/bin/Debug/net6.0-windows/ClientSide.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/bin/Debug/net6.0-windows/ClientSide.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/bin/Debug/net6.0-windows/ClientSide.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/bin/Debug/net6.0-windows/ClientSide.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/bin/Debug/net6.0-windows/Newtonsoft.Json.Bson.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/bin/Debug/net6.0-windows/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/bin/Debug/net6.0-windows/System.Net.Http.Formatting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/ClientSide.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/ClientSide.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/ClientSide.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/ClientSide_2tui0bmz_wpftmp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/ClientSide_2tui0bmz_wpftmp.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/ClientSide_2tui0bmz_wpftmp.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/ClientSide_t4p21ao3_wpftmp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/ClientSide_t4p21ao3_wpftmp.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/ClientSide_t4p21ao3_wpftmp.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/App.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/App.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.designer.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.designer.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.g.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_01y1ko4h_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_01y1ko4h_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_01y1ko4h_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_01y1ko4h_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_01y1ko4h_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_14xmphwq_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_14xmphwq_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_14xmphwq_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_14xmphwq_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_14xmphwq_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_2tui0bmz_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_2tui0bmz_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_2tui0bmz_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_2tui0bmz_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_3cja55wf_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_3cja55wf_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_3cja55wf_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_3cja55wf_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_3cja55wf_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_5sf2mmkc_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_5sf2mmkc_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_5sf2mmkc_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_5sf2mmkc_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_5sf2mmkc_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_MarkupCompile.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_MarkupCompile.i.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_MarkupCompile.lref" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_aoal3hz3_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_aoal3hz3_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_aoal3hz3_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_aoal3hz3_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_aoal3hz3_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_b1msodej_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_b1msodej_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_b1msodej_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_b1msodej_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_b1msodej_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bcmb5zrh_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bcmb5zrh_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bcmb5zrh_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bcmb5zrh_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bcmb5zrh_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bflbda0l_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bflbda0l_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bflbda0l_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bflbda0l_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bflbda0l_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bxmgbybi_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bxmgbybi_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bxmgbybi_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bxmgbybi_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bxmgbybi_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bxthiyle_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bxthiyle_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bxthiyle_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bxthiyle_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_bxthiyle_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_clg5gurj_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_clg5gurj_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_clg5gurj_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_clg5gurj_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_clg5gurj_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_enmgp23b_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_enmgp23b_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_enmgp23b_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_enmgp23b_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_enmgp23b_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_f4m5msrf_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_f4m5msrf_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_f4m5msrf_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_f4m5msrf_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_f4m5msrf_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_f5aovmit_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_f5aovmit_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_f5aovmit_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_f5aovmit_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_f5aovmit_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_gbqjdoav_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_gbqjdoav_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_gbqjdoav_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_gbqjdoav_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_gbqjdoav_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_gvnbyqcq_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_gvnbyqcq_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_gvnbyqcq_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_gvnbyqcq_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_gvnbyqcq_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_i2vkhz4e_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_i2vkhz4e_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_i2vkhz4e_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_i2vkhz4e_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_i2vkhz4e_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ifnjdonz_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ifnjdonz_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ifnjdonz_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ifnjdonz_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ifnjdonz_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ifwpnwkd_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ifwpnwkd_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ifwpnwkd_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ifwpnwkd_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ifwpnwkd_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_iled4ldj_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_iled4ldj_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_iled4ldj_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_iled4ldj_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_iled4ldj_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_iv1xz501_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_iv1xz501_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_iv1xz501_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_iv1xz501_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_iv1xz501_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_j20k5bgk_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_j20k5bgk_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_j20k5bgk_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_j20k5bgk_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_j20k5bgk_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_jyypu5nk_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_jyypu5nk_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_jyypu5nk_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_jyypu5nk_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_jyypu5nk_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_kic22w0o_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_kic22w0o_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_kic22w0o_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_kic22w0o_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_kic22w0o_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_penoyt5w_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_penoyt5w_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_penoyt5w_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_penoyt5w_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_penoyt5w_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_rkcqqwgm_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_rkcqqwgm_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_rkcqqwgm_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_rkcqqwgm_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_rkcqqwgm_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_sisx31jz_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_sisx31jz_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_sisx31jz_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_sisx31jz_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_sisx31jz_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_sx22jopd_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_sx22jopd_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_sx22jopd_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_sx22jopd_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_sx22jopd_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_t0hhjpgn_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_t0hhjpgn_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_t0hhjpgn_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_t0hhjpgn_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_t0hhjpgn_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_t4p21ao3_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_t4p21ao3_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_t4p21ao3_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_t4p21ao3_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_t5ga1vhq_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_t5ga1vhq_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_t5ga1vhq_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_t5ga1vhq_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_t5ga1vhq_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_tgldhs20_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_tgldhs20_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_tgldhs20_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_tgldhs20_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_tgldhs20_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_uw4txoor_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_uw4txoor_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_uw4txoor_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_uw4txoor_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_uw4txoor_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_uxt2eobt_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_uxt2eobt_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_uxt2eobt_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_uxt2eobt_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_uxt2eobt_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_vcxlvauh_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_vcxlvauh_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_vcxlvauh_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_vcxlvauh_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_vcxlvauh_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_vfucohxc_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_vfucohxc_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_vfucohxc_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_vfucohxc_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_vfucohxc_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ydb1ccv3_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ydb1ccv3_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ydb1ccv3_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ydb1ccv3_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ydb1ccv3_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ykmxhrdy_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ykmxhrdy_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ykmxhrdy_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ykmxhrdy_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_ykmxhrdy_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_zmrtsc23_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_zmrtsc23_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_zmrtsc23_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_zmrtsc23_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_zmrtsc23_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_znpdwjdz_wpftmp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_znpdwjdz_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_znpdwjdz_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_znpdwjdz_wpftmp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ClientSide_znpdwjdz_wpftmp.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/Main.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/MainWindow.baml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/MainWindow.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/MainWindow.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/Window1.baml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/Window1.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/Window1.g.i.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/ref/ClientSide.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/Debug/net6.0-windows/refint/ClientSide.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ClientSide/ClientSide/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/Ex 2 part 2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/.vs/ProjectEvaluation/serverside.metadata.v6.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/.vs/ProjectEvaluation/serverside.projects.v6.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/.vs/ServerSide/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/.vs/ServerSide/FileContentIndex/03e1d98b-af6b-4d7a-883d-257e788e349c.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/.vs/ServerSide/FileContentIndex/14cb0c13-e5cc-40fc-bee6-54ed75567d00.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/.vs/ServerSide/FileContentIndex/7d964021-fdf1-41a1-b83f-1dfba80fad21.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/.vs/ServerSide/FileContentIndex/906901be-8b5b-4ed2-904d-3ca9f81a0f12.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/.vs/ServerSide/FileContentIndex/read.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/.vs/ServerSide/config/applicationhost.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/.vs/ServerSide/v17/.futdcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/.vs/ServerSide/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/Controllers/MemberController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/Data/DataAccess.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/Models/Member.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/Models/Vaccine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/ServerSide.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/ServerSide.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/Microsoft.OpenApi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/ServerSide.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/ServerSide.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/ServerSide.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/ServerSide.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/ServerSide.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/System.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.csproj.BuildWithSkipAnalyzers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ServerSide.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/ref/ServerSide.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/refint/ServerSide.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/staticwebassets.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/staticwebassets/msbuild.build.ServerSide.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ServerSide.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ServerSide.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/ServerSide.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/ServerSide.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/ServerSide.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/ServerSide/ServerSide/obj/project.nuget.cache" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Part2" />
+  </component>
+  <component name="ProjectId" id="2PSc772VzctPJGdawXL1l5pPOxn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.part1">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hadasimTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="part1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hadasimTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.part1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.part1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eed503a6-7529-48f2-a024-0607cd16c3f2" name="Default Changelist" comment="" />
+      <created>1683453752600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683453752600</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
