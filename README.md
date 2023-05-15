@@ -28,7 +28,24 @@ SQL Server Database.
 #### Getting Started
 Clone the repository to your local machine.
 Open the project in Visual Studio.
-Create a SQL Server database and update the connection string in Controllers > MemberController >constructor to point to your database.
+Create a SQL Server database run the sql commands:
+CREATE TABLE [dbo].[Member] (
+    [Id]                 INT        NOT NULL,
+    [Name]               NCHAR (20) NOT NULL,
+    [Address]            NCHAR (20) NULL,
+    [Birthday]           DATETIME   NULL,
+    [Telephone]          NCHAR (10) NULL,
+    [Mobile]             NCHAR (10) NULL,
+    [RecoveryDate]       DATETIME   NULL,
+    [PositiveAnswerDate] DATETIME   NULL,
+    CONSTRAINT [PK_Member] PRIMARY KEY CLUSTERED ([Id] ASC));
+CREATE TABLE [dbo].[Vaccine] (
+    [Id]              INT        NULL,
+    [VaccinationDate] DATETIME   NULL,
+    [Producer]        NCHAR (10) NULL
+);
+
+and update the connection string in Controllers > MemberController >constructor to point to your database.
 Run the project.
 Once the project is running, open your web browser and navigate to http://localhost:7028/swagger. This will open the Swagger UI, where you can test the API endpoints and check the health of the server.
 
